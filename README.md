@@ -1,2 +1,5 @@
 # kottans-backend
-Learning backend development
+
+Hello!
+
+My name is Mykola. I want to get a glimpse on the way backend works.
