@@ -5,7 +5,7 @@ Hello!
 My name is Mykola. I want to get a glimpse on the way backend works.
 
 ## Unix Shell
-### Linux Survival
+### ![Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/)
 #### Module 1
 Everything was familiar except that I haven't used "more" before
 ![Quiz1](./task_unix_shell/linux_survival_quiz_1.png)
@@ -19,6 +19,6 @@ Printer commands and finger were new for me
 Every command was familiar but I learned that df - "disk free", ps - "process status"
 ![Quiz4](./task_unix_shell/linux_survival_quiz_4.png)
 
-### Learning the Shell
+### ![Learning the Shell](http://linuxcommand.org/)
 I've just repeated what I've known before.
 One handy thing I've found out is "focus follows mouse" - it is very convenient
